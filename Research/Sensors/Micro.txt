@@ -1,0 +1,5 @@
+ATmega8 (Comes in various packages) PIC/Atmel?
+
+Microchip PIC24FJ64GA004-I/PT, 16bit PIC Microcontroller, PIC24FJ, 32MHz, 64 kB Flash, 44-Pin TQFP
+
+Microchip PIC24FJ64GB002-I/SO, 16bit PIC Microcontroller, PIC24FJ, 32MHz, 64 kB Flash, 28-Pin SOIC

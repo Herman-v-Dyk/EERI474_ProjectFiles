@@ -1,0 +1,14 @@
+4-digit display - https://za.rs-online.com/web/p/led-displays/8187530
+
+E-paper display:
+https://www.digikey.co.za/product-detail/en/adafruit-industries-llc/4098/1528-2865-ND/9924181?utm_adgroup=Dev%20Boards&utm_source=google&utm_medium=cpc&utm_campaign=Smart%20Shopping_Product_Development%20Boards&utm_term=&productid=9924181&gclid=Cj0KCQjw3f6HBhDHARIsAD_i3D9EsJMf3yp-9GlnMFhQbVojxSn-HTII_6eYU-HIkZud9TopGGb2y3QaAho8EALw_wcB
+ 
+
+https://za.rs-online.com/web/p/oled-displays/8235948
+
+
+//hierdie
+
+https://www.waveshare.com/wiki/0.91inch_OLED_Module
+
+
