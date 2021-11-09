@@ -1,0 +1,33 @@
+\chapter{Conclusions and Recommendations}\label{Ch6}
+The final chapter concludes the report. The final findings of the project as well as future recommendations are documented in this section. A section where the compliance with ECSA Graduate Attributes are documented is also included in this chapter.
+
+\section{Conclusion}
+The problem was to develop a non-invasive body temperature measuring device, that can measure core body temperature without the readings getting affected by external factors. This was achieved with the developed Body Temperature Measuring Wristband since this device used statistics to estimate core body temperature from the temperature measured on the skin of a user. From \autoref{MBT} it is clear that the device can estimate core body temperature with an accuracy of $ 98.39 \% $ at its worst, relating to a maximum estimation error of $ 0.58^{\circ} C $. This maximum estimation error almost reaches the $ 0.5^{\circ} C $ specified in \autoref{1.7}. Since the estimation relies on the relationship given in \autoref{estm} that are developed by Kwak et al. \cite{Kwak2019}, the accuracy of the device is limited to the accuracy of this statistical model, and the sensors used for the measurements to build the model. 
+\\
+\\
+The PCB of the device was designed in such a way that it is compact and as small as possible since this was one of the requirements. The designed device is only 35mm in width and 40mm in length. Therefore, this device is lightweight and small, and will easily fit on the wrist of the user.  The developed device is also energy-efficient, and if used twice every hour for 10 seconds, the estimated battery life would be 212.34 days. This is possible due to the power saving mode (standby mode) available on the device. This will save costs to the user, as a new battery will only be required roughly every half a year, depending on the usage. The developed device is inexpensive to build, all the components together costs R340.00 and the manufacturing of the PCB costs around R40.00. This means that this low-cost product may be widely available to be used by anyone with the need. 
+\\
+\\
+During this project, engineering skills, tools and methods were used and applied to solve a problem by firstly stating what the problem is, what the anticipated benefits of the solution may be, and also what the deliverables of the project will be. After this, as much as possible information on current techniques, equipment, and technologies that are available to aid the design process, were gathered. Then the design phase started with the conceptual design, to test if the design would be feasible and valid and that there are no extra or unused elements included as part of the design. The detailed design was then started, where the Body Temperature Measuring device was designed in such a manner to reach all its requirements. The implementation and testing phases proved that the Body Temperature Measuring device works as intended.
+
+\section{Future Recommendations}
+The developed device has a maximum estimation error of $ 0.58^{\circ} C $ as mentioned previously. This error can be improved by developing a new statistical model, using the Body Temperature Measuring device as part of the development. All the required measurements of the statistical model will be made with the Body Temperature Measuring device, therefore the accuracy of the model is not limited anymore to the accuracy of the sensor used by Kwak et al. \cite{Kwak2019} as it is currently. 
+\\
+\\
+The accuracy of the Body Temperature Measuring device was only determined based on measurements made over two days. This resulted in a fairly good accuracy. However, the Body Temperature Measuring device still needs to be tested in different environmental conditions (such as in wintertime), to determine if the accuracy of the device will stay constant no matter the season. Therefore, full field trails of the final version is still required.
+\\
+\\
+It is also recommended to remove the flash connector from the device and to use an external device to flash program code onto the microcontroller. This external device can be in the form of a PCB that has an IC socket to temporarily hold the microcontroller in place while the program code is flashed onto it. Once the microcontroller is flashed with the required code, it can be removed from the IC socket, and be added to the PCB of the new Body Temperature Measuring device. Removing the flash connector will save space on the PCB of the Body Temperature Measuring device. A new feature can also be added to the Body Temperature Measuring device, to record the body temperature of the user throughout the day. These temperatures can then be sent to a computer or smartphone for further analysis. This may however increase power usage of the device, as well as total costs of the device since a wireless communication module or chip will be needed.
+
+\section{Compliance with Graduate Attributes}
+This project and report addressed several ECSA Graduate Attributes (GA). The Graduate Attributes that were addressed are listed below:
+\begin{itemize}[noitemsep]
+    \item ECSA GA 1 - Solving Engineering Problems.
+    \item ECSA GA 3 - Engineering Design and Synthesis.
+    \item ECSA GA 4 - Investigations, Experiments, and Data Analysis.
+    \item ECSA GA 5 - Engineering Methods, Skills, Tools and Information Technology.
+    \item ECSA GA 6 - Professional and Technical Communication.
+    \item ECSA GA 9 - Independent Learning Ability.
+\end{itemize}
+\noindent
+ECSA GA 1 was addressed in \autoref{Ch1} of this report, where the problem is stated. Some background and motivation of the topic were provided, as well as what issues are to be addressed in the report. The outcomes of the project are also clearly stated. ECSA GA 9 was addressed in \autoref{Ch2} of this report. In this chapter, an adequate amount of literature is studied, and a good overview of available solutions is given. ECSA GA 3 and 5 were addressed in \autoref{Ch3} and \autoref{Ch4}. In these chapters, an engineering method is applied in the conceptual and detailed design. Current knowledge and techniques were used and applied as correctly as possible. The design shown innovation and originality, with the help of engineering methods, skills, and tools. ECSA GA 4 and ECSA GA 5 are addressed in \autoref{Ch5} and \autoref{Ch6}. In \autoref{Ch5} the detailed design was implemented and worked as intended. A test and evaluation strategy was used during the implementation phase. In \autoref{Ch6} conclusions are drawn and problems are pointed out. Corrective actions were also recommended. ECSA GA 9 was addressed throughout the report, where professional and technical communication is demonstrated. 

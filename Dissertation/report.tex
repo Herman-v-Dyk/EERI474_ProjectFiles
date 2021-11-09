@@ -1,0 +1,83 @@
+\documentclass[a4paper,oneside,11pt]{report}
+
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}
+\usepackage{setspace}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage[numbers]{natbib}
+\usepackage{geometry}
+\geometry{
+	a4paper,
+	left=30mm,
+	right=30mm,
+	top=30mm,
+	bottom=30mm 
+}
+\usepackage{tikz}
+\usepackage{blindtext}
+\usepackage{etoolbox}
+\patchcmd{\abstract}{\null\vfil}{}{}{}
+\usepackage[hidelinks]{hyperref}
+\usepackage{float}
+\usepackage{fixltx2e}
+\usepackage{enumitem}
+\usepackage{appendix}
+\usepackage{pdfpages}
+
+%To make chapter headings higher and to make into one line
+\makeatletter
+\renewcommand{\@makechapterhead}[1]{%
+	{\noindent\raggedright\normalfont% Alignment and font reset
+		\huge\bfseries \@chapapp\space\thechapter~~#1\par\nobreak}% Formatting
+	\vspace{\baselineskip}% ...just a little space
+}
+\makeatother
+
+%To start chapter on the same page 
+%\makeatletter
+%\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
+%\makeatother
+
+\raggedbottom
+
+\begin{document}
+	\includepdf[pages=-]{Front-Page.pdf}
+
+	\newpage
+	\pagenumbering{roman}
+	
+	\begin{abstract}
+	The following document provides a brief overview on the importance of measuring body temperature. Types of body temperature measuring devices are given to gain an understanding of the context of the problem. The problem is the need for a non-invasive body temperature measuring device that can accurately measure core body temperature, whilst being simple, low-cost, lightweight, and energy-efficient. In the first part of the document, high-level objectives are given that will be pursued in solving the problem. These objectives include the design and implementation of a non-invasive body temperature measuring device, as well as finding a suitable technique to estimate core body temperature from skin temperature. 
+	\\
+	\\
+	A literature study is included in this report to determine what techniques, equipment, technologies, etc. are available to solve the problem. Some background is given on the measurement of body temperature, i.e. where it can be measured and the corresponding difficulties. Since the temperature measured on the skin of a human is susceptible to environmental factors such as surrounding ambient temperatures, four available techniques or methods to accurately estimate core body temperature from the temperature of the skin, are given and reviewed. An overview of the available temperature sensing elements, display technologies as well as power supplies are also given in the literature study.
+	\\
+	\\
+	After the literature study, the design phase is started with the conceptual design of the Body Temperature Monitoring device. A Model-based Systems Engineering (MBSE) process is followed throughout the design phase. A functional analysis is used to clearly state how the system is to work when fully completed, followed by an architectural synthesis where the physical design of the device is developed. Once the conceptual design was completed, the detailed design of the device started. Trade-off studies were used to select the specific components to construct the device. Multi-Criteria Decision Matrices (MCDM) are used in the decision-making process to ensure no subjectivity or bias would affect the outcome of the selection of the components. Once all the required components were selected, the full detailed design of the device is presented in the form of schematics. The firmware is developed in the embedded C programming language, and a Finite State Machine (FSM) representation, as well as software flow diagrams, are provided to visualise the design and logical flow of the firmware that will be flashed onto the device.
+	\\
+	\\
+	The detailed design was then implemented and tested. A prototype PCB was designed and constructed to test if the device functions as intended. Firstly the communication between the programmer and the microcontroller was tested, and the programmer could successfully communicate with the microcontroller of the device. This means that program code could be flashed onto the device. After this, the accuracy with which the device measures skin temperature was determined and was found as $ 98.32 \% $ at its lowest, relating to a $ 0.5^{\circ} C $ maximum error when measuring skin temperature. The accuracy with which the device estimates the core body temperature from the skin temperature was also determined, and was found as $ 98.39 \% $ at its lowest, relating to a $ 0.58^{\circ} C $ maximum error when estimating body temperature. The power consumption of the device was then measured to estimate the battery life of the device. If the device is used twice every hour, for 10 seconds, the estimated battery life of the Body Temperature Measuring device is 212.34 days. The final findings are then documented in the conclusion to test if all the requirements were met during the project. It is concluded that the designed Body Temperature Measuring device is an accurate, small, lightweight device whilst being energy efficient and cheap to construct. The concluding chapter also gives a few recommendations regarding further development.
+		
+	\end{abstract}
+	\tableofcontents
+	\newpage
+	\listoffigures
+	\newpage
+	\listoftables
+	\input{acro_list}
+	\newpage
+	
+	\input{Chapters/Ch1}
+	\input{Chapters/Ch2}
+	\input{Chapters/Ch3}
+	\input{Chapters/Ch4}
+	\input{Chapters/Ch5}
+	\input{Chapters/Ch6}
+	\bibliographystyle{IEEEtran}
+	\bibliography{references}
+	\addappheadtotoc
+	\appendixpage
+	\include{Chapters/Appendices}
+\end{document}

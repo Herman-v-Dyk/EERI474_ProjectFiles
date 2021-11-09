@@ -1,0 +1,293 @@
+% Encoding: UTF-8
+
+@InProceedings{Wong2015,
+  author    = {T. H. Y. {Ling} and L. J. {Wong} and J. E. H. {Tan} and K. Y. {Kiu}},
+  booktitle = {2015 6th International Conference on Intelligent Systems, Modelling and Simulation},
+  title     = {Non-intrusive Human Body Temperature Acquisition and Monitoring System},
+  year      = {2015},
+  pages     = {16-20},
+  doi       = {10.1109/ISMS.2015.17},
+}
+
+@Article{Chen2019,
+  author   = {Chen, Wenxi},
+  journal  = {Biomedical Engineering Letters},
+  title    = {Thermometry and interpretation of body temperature.},
+  year     = {2019},
+  issn     = {2093-9868},
+  number   = {1},
+  pages    = {3},
+  volume   = {9},
+  abstract = {This article reviews the historical development and up-to-date state of thermometric technologies for measuring human body temperature (BT) from two aspects: measurement methodology and significance interpretation. Since the first systematic and comprehensive study on BT and its relation to human diseases was conducted by Wunderlich in the late 19th century, BT has served as one of the most fundamental vital signs for clinical diagnosis and daily healthcare. The physiological implication of BT set point and thermoregulatory mechanisms are briefly outlined. Influential determinants of BT measurement are investigated thoroughly. Three types of BT measurement, i.e., core body temperature, surface body temperature and basal body temperature, are categorized according to its measurement position and activity level. With the comparison of temperature measurement in industrial fields, specialties in technological and biological aspects in BT measurement are mentioned. Methodologies used in B},
+  keywords = {Body temperature, Thermometry, Thermometer, Body temperature measurement, Body temperature interpretation, Body temperature analysis},
+}
+
+@Article{Whelan2020,
+  author  = {Corey Whelan},
+  journal = {Healthline},
+  title   = {Advantages and Disadvantages of Different Types of Thermometers},
+  year    = {2020},
+  month   = dec,
+  url     = {https://www.healthline.com/health/types-of-thermometers},
+}
+
+@InProceedings{Matsunaga2020,
+  author    = {D. {Matsunaga} and Y. {Tanaka} and M. {Seyama} and K. {Nagashima}},
+  booktitle = {2020 42nd Annual International Conference of the IEEE Engineering in Medicine Biology Society (EMBC)},
+  title     = {Non-invasive and wearable thermometer for continuous monitoring of core body temperature under various convective conditions},
+  year      = {2020},
+  pages     = {4377-4380},
+  doi       = {10.1109/EMBC44109.2020.9176403},
+}
+
+@InProceedings{Atallah2018,
+  author    = {L. {Atallah} and C. {Ciuhu} and C. {Wang} and E. {Bongers} and T. {Blom} and I. {Paulussen} and G. {Noordergraaf}},
+  booktitle = {2018 IEEE 15th International Conference on Wearable and Implantable Body Sensor Networks (BSN)},
+  title     = {An ergonomic wearable core body temperature sensor},
+  year      = {2018},
+  pages     = {70-73},
+  doi       = {10.1109/BSN.2018.8329661},
+}
+
+@Article{Sim2016,
+  author  = {Sim, Soo and Koh, Myung and Joo, Kwang and Noh, Seungwoo and Park, Sangyun and Kim, Youn and Park, Kwang},
+  journal = {Sensors},
+  title   = {Estimation of Thermal Sensation Based on Wrist Skin Temperatures},
+  year    = {2016},
+  month   = {03},
+  pages   = {420},
+  volume  = {16},
+  doi     = {10.3390/s16040420},
+}
+
+@InProceedings{Rasyid2015,
+  author    = {M. U. H. {Al Rasyid} and B. {Lee} and A. {Sudarsono}},
+  booktitle = {2015 International Seminar on Intelligent Technology and Its Applications (ISITIA)},
+  title     = {Wireless body area network for monitoring body temperature, heart beat and oxygen in blood},
+  year      = {2015},
+  pages     = {95-98},
+  doi       = {10.1109/ISITIA.2015.7219960},
+}
+
+@Article{Hudec2020,
+  author  = {Hudec, Robert and Matuska, Slavomir and Kamencay, Patrik and Hudecova, Lucia},
+  journal = {Advances in Electrical and Electronic Engineering},
+  title   = {Concept of a Wearable Temperature Sensor for Intelligent Textile},
+  year    = {2020},
+  month   = {06},
+  volume  = {18},
+  doi     = {10.15598/aeee.v18i2.3610},
+}
+
+@InProceedings{Nookhao2020,
+  author    = {S. {Nookhao} and V. {Thananant} and T. {Khunkhao}},
+  booktitle = {2020 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering (ECTI DAMT NCON)},
+  title     = {Development of IoT Heartbeat and Body Temperature Monitoring System for Community Health Volunteer},
+  year      = {2020},
+  pages     = {106-109},
+  doi       = {10.1109/ECTIDAMTNCON48261.2020.9090692},
+}
+
+@InProceedings{Thomas2016,
+  author    = {S. S. {Thomas} and A. {Saraswat} and A. {Shashwat} and V. {Bharti}},
+  booktitle = {2016 International Conference on Signal Processing, Communication, Power and Embedded System (SCOPES)},
+  title     = {Sensing heart beat and body temperature digitally using Arduino},
+  year      = {2016},
+  pages     = {1721-1724},
+  doi       = {10.1109/SCOPES.2016.7955737},
+}
+
+@InProceedings{Kwak2019,
+  author    = {Y. -T. {Kwak} and Y. {Lee} and Y. {You}},
+  booktitle = {2019 International Conference on Information and Communication Technology Convergence (ICTC)},
+  title     = {Statistical Estimation of Body Temperature from Skin Temperature for Smart Band},
+  year      = {2019},
+  pages     = {1477-1481},
+  doi       = {10.1109/ICTC46691.2019.8939975},
+}
+
+@InProceedings{Pelin2013,
+  author    = {P. {Oğuz} and G. {Ertaş}},
+  booktitle = {2013 International Conference on Electronics, Computer and Computation (ICECCO)},
+  title     = {Wireless dual channel human body temperature measurement device},
+  year      = {2013},
+  pages     = {52-55},
+  doi       = {10.1109/ICECCO.2013.6718227},
+}
+
+@InProceedings{Haines 2017,
+  author    = {W. {Haines} and P. {Momenroodaki} and E. {Berry} and M. {Fromandi} and Z. {Popovic}},
+  booktitle = {2017 IEEE MTT-S International Microwave Symposium (IMS)},
+  title     = {Wireless system for continuous monitoring of core body temperature},
+  year      = {2017},
+  pages     = {541-543},
+  doi       = {10.1109/MWSYM.2017.8058620},
+}
+
+@InProceedings{Basal,
+  author    = {M. V. C. {Caya} and F. R. G. {Cruz} and N. B. {Linsangan} and M. A. M. D. {Catipon} and P. I. T. {Monje} and H. K. R. {Tan} and W. {Chung}},
+  booktitle = {2017IEEE 9th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment and Management (HNICEM)},
+  title     = {Basal body temperature measurement using e-textile},
+  year      = {2017},
+  pages     = {1-4},
+  doi       = {10.1109/HNICEM.2017.8269444},
+}
+
+@Article{Yamakage2003,
+  author  = {Yamakage, Michiaki and Namiki, Akiyoshi},
+  journal = {Journal of anesthesia},
+  title   = {Deep temperature monitoring using a zero-heat-ﬂow method},
+  year    = {2003},
+  month   = {02},
+  pages   = {108-15},
+  volume  = {17},
+  doi     = {10.1007/s005400300026},
+}
+
+@Article{complications,
+  author  = {{Molnar}, G W and {Read}, R C},
+  journal = {Journal of Applied Physiology},
+  title   = {Studies during open-heart surgery on the special characteristics of rectal temperature.},
+  year    = {1974},
+  month   = {36},
+  note    = {333-336},
+  volume  = {36},
+}
+
+@Article{Kitamura2010,
+  author   = {Kei-Ichiro Kitamura and Xin Zhu and Wenxi Chen and Tetsu Nemoto},
+  journal  = {Medical Engineering \& Physics},
+  title    = {Development of a new method for the noninvasive measurement of deep body temperature without a heater},
+  year     = {2010},
+  issn     = {1350-4533},
+  number   = {1},
+  pages    = {1-6},
+  volume   = {32},
+  abstract = {The conventional zero-heat-flow thermometer, which measures the deep body temperature from the skin surface, is widely used at present. However, this thermometer requires considerable electricity to power the electric heater that compensates for heat loss from the probe; thus, AC power is indispensable for its use. Therefore, this conventional thermometer is inconvenient for unconstrained monitoring. We have developed a new dual-heat-flux method that can measure the deep body temperature from the skin surface without a heater. Our method is convenient for unconstrained and long-term measurement because the instrument is driven by a battery and its design promotes energy conservation. Its probe consists of dual-heat-flow channels with different thermal resistances, and each heat-flow-channel has a pair of IC sensors attached on its top and bottom. The average deep body temperature measurements taken using both the dual-heat-flux and then the zero-heat-flow thermometers from the foreheads of 17 healthy subjects were 37.08°C and 37.02°C, respectively. In addition, the correlation coefficient between the values obtained by the 2 methods was 0.970 (p<0.001). These results show that our method can be used for monitoring the deep body temperature as accurately as the conventional method, and it overcomes the disadvantage of the necessity of AC power supply.},
+  doi      = {https://doi.org/10.1016/j.medengphy.2009.09.004},
+  keywords = {Transcutaneous deep body temperature, Non-heating, Battery driven},
+  url      = {https://www.sciencedirect.com/science/article/pii/S1350453309002045},
+}
+
+@Article{Feng2017,
+  author    = {Jingjie Feng and Congcong Zhou and Cheng He and Yuan Li and Xuesong Ye},
+  journal   = {Physiological Measurement},
+  title     = {Development of an improved wearable device for core body temperature monitoring based on the dual heat flux principle},
+  year      = {2017},
+  month     = {mar},
+  number    = {4},
+  pages     = {652--668},
+  volume    = {38},
+  abstract  = {Objective: In this paper, a miniaturized wearable core body temperature (CBT) monitoring system based on the dual heat flux (DHF) principle was developed. Approach: By interspersing calcium carbonate powder in PolyDimethylsiloxane (PDMS), a reformative heat transfer medium was produced to reduce the thermal equilibrium time. Besides, a least mean square (LMS) algorithm based active noise cancellation (ANC) method was adopted to diminish the impact of ambient temperature fluctuations. Theoretical analyses, finite element simulation, experiments on a hot plate and human volunteers were performed. Main results: The results showed that the proposed system had the advantages of small size, reduced initial time (~23.5 min), and good immunity to fluctuations of the air temperature. For the range of 37–41 °C on the hot plate, the error compared with a Fluke high accuracy thermometer was 0.08  ±  0.20 °C. In the human experiments, the measured temperature in the rest trial (34 subjects) had a difference of 0.13  ±  0.22 °C compared with sublingual temperature, while a significant increase of 1.36  ±  0.44 °C from rest to jogging was found in the exercise trial (30 subjects). Significance: This system has the potential for reliable continuous CBT measurement in rest and can reflect CBT variations during exercise.},
+  doi       = {10.1088/1361-6579/aa5f43},
+  publisher = {{IOP} Publishing},
+}
+
+@Article{Fox1973,
+  author   = {Fox, R H and Solman, A J and Isaacs, R and Fry, A J and MacDonald, I C},
+  journal  = {Clinical science},
+  title    = {A new method for monitoring deep body temperature from the skin surface.},
+  year     = {1973},
+  issn     = {0009-9287},
+  number   = {1},
+  pages    = {81 - 86},
+  volume   = {44},
+  keywords = {Body Temperature*/drug effects, Monitoring, Physiologic*, Ear, External, Electronics, Medical, Female, Humans, Locomotion, Male, Methods, Pyrogens/pharmacology, Skin, Skin Temperature/drug effects, Sternum, Temperature, Thermometers, Thorax},
+}
+
+@Article{Sang2017,
+  author  = {Kwak, Sang and Kim, Jong},
+  journal = {Korean Journal of Anesthesiology},
+  title   = {Central limit theorem: The cornerstone of modern statistics},
+  year    = {2017},
+  month   = {04},
+  pages   = {144},
+  volume  = {70},
+  doi     = {10.4097/kjae.2017.70.2.144},
+}
+
+@InProceedings{Borwankar2015,
+  author = {Borwankar, Adwait},
+  title  = {Thermal transducer Analysis},
+  year   = {2015},
+}
+
+@Article{Gums2018,
+  author    = {Gums, Jason},
+  journal   = {Digi-Key Electronics},
+  title     = {Types of Temperature Sensors},
+  year      = {2018},
+  timestamp = {2021-04-06},
+  url       = {https://www.digikey.com/en/blog/types-of-temperature-sensors},
+}
+
+@Article{Maxim2017,
+  author = {{Maxim Integrated}},
+  title  = {Temperature Sensor Tutorial},
+  year   = {2017},
+}
+
+@Article{Verster1968,
+  author  = {T. C. Verster},
+  journal = {Electronics Letters},
+  title   = {p--n junction as an ultralinear calculable thermometer},
+  year    = {1968},
+  pages   = {175-176},
+  volume  = {4},
+}
+
+@Article{Fer2015,
+  author  = {María Rodríguez Fernández and Eduardo Zalama Casanova and Ignacio González Alonso},
+  journal = {Sustainability},
+  title   = {Review of Display Technologies Focusing on Power Consumption},
+  year    = {2015},
+  issn    = {2071-1050},
+}
+
+@Article{Joseph2016,
+  author  = {Anitta Joseph},
+  journal = {International Journal of Engineering Research & Technology (IJERT)},
+  title   = {E-Paper Technology},
+  year    = {2016},
+  issn    = {2278-0181},
+}
+
+@Article{Hajjar2010,
+  author  = {Roger Hajjar},
+  journal = {LASER PHOSPHOR DISPLAY (LPD)},
+  title   = {Introduction to LPD Technology and its Advantages in Large Format Displays},
+  year    = {2010},
+}
+
+@Article{Zissis2014,
+  author  = {Georges Zissis and Paolo Bertoldi},
+  journal = {JRC SCIENCE AND POLICY REPORTS},
+  title   = {2014 Status report on Organic Light Emitting Diodes (OLED)},
+  year    = {2014},
+  issn    = {1831-9424},
+  doi     = {10.2790/461054},
+}
+
+@Article{Ni2013,
+  author  = {Ni, Xiaohong and Yan, Zhou and Dan, Liu and Zhou, Yanling},
+  journal = {TELKOMNIKA Indonesian Journal of Electrical Engineering},
+  title   = {The Realization of LED Display System Based on the Embedded},
+  year    = {2013},
+  month   = {05},
+  volume  = {11},
+  doi     = {10.11591/telkomnika.v11i5.2496},
+}
+
+@Article{King,
+  author = {Christopher King},
+  title  = {Electroluminescent Displays},
+  url    = {http://ch00ftech.com/wpcontent/uploads/2012/05/mrsnf98.pdf},
+}
+
+@Article{Components2019,
+  author = {{Components101}},
+  title  = {Different Types of Batteries and Their Applications},
+  year   = {2019},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

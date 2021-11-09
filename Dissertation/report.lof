@@ -1,0 +1,37 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Low level model and thermal equivalent circuit.\relax }}{4}{figure.caption.5}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces High level block diagram of proposed solution\relax }}{7}{figure.caption.6}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces RTD configurations \cite {Maxim2017}\relax }}{10}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Zero-heat-flow structure\cite {Chen2019}\relax }}{11}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Dual-heat-flux structure\cite {Kitamura2010}\relax }}{11}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Improved thermal equivalent model \cite {Matsunaga2020}\relax }}{13}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Mapping of Gaussian functions \cite {Kwak2019}\relax }}{14}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Power Consumption Density of Display Technologies \cite {Fer2015}\relax }}{15}{figure.caption.14}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Level 0 Functional Flow\relax }}{18}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Level 1 Functional Flow\relax }}{19}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Level 2 Functional Flow - Operate System Part 1\relax }}{20}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Level 2 Functional Flow - Operate System Part 2\relax }}{21}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Level 2 Functional Flow - Maintain System\relax }}{22}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Level 0 Physical Architecture\relax }}{23}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Level 1 Physical Architecture\relax }}{23}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces High level Resource Allocation matix\relax }}{24}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Lower level Resource Allocation matix\relax }}{24}{figure.caption.23}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Technical Risk Definition\relax }}{27}{figure.caption.24}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Microcontroller - Utility Functions\relax }}{27}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Microcontroller - MCDM\relax }}{28}{figure.caption.26}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Temperature Probe - Utility Functions\relax }}{29}{figure.caption.27}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Temperature Probe - MCDM\relax }}{30}{figure.caption.28}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Display - Utility Functions\relax }}{31}{figure.caption.29}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Display - MCDM\relax }}{32}{figure.caption.30}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Battery - Utility Functions\relax }}{33}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Battery - MCDM\relax }}{34}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Detailed Physical Architecture\relax }}{35}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Schematic: Microcontroller\relax }}{36}{figure.caption.34}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Schematic: Temperature sensor\relax }}{37}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Schematic: Input Buttons\relax }}{38}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Schematic: Power Supply\relax }}{39}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Schematic: Display Connector\relax }}{40}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Schematic: SWD Connector\relax }}{40}{figure.caption.43}%
