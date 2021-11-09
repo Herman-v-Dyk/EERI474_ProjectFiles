@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MAX30205)(type Legacy)(uri "C:/Users/Herman van Dyk/Documents/KiCAD/External/Symbols/MAX30205.lib")(options "")(descr ""))
+  (lib (name RS_PRO_32.768kHz)(type Legacy)(uri "C:/Users/Herman van Dyk/Documents/KiCAD/External/Symbols/RS PRO 32.768kHz.lib")(options "")(descr ""))
+)
